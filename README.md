@@ -59,21 +59,4 @@ VoiceAssistant/
 ├── templates/
 │   └── index.html              # Responsive Web UI & Voice Assistant landing page
 └── frontend/                   # Modern React / Vite frontend
-🚀 Quickstart & How to Run
-1. Clone & Install Dependencies
-git clone https://github.com/harisharma9421/AgriVoice.git
-cd AgriVoice
-pip install -r requirements.txt
-2. Run with One Command (Auto-trains & Launches UI)
-python run.py
-3. Open in Browser
-Web UI & Voice Assistant: http://127.0.0.1:8000
-Interactive Swagger API Docs: http://127.0.0.1:8000/docs
-Streamlit Dashboard (Alternative): streamlit run app.py
-🧪 Running Automated Model Benchmarks
-python -m src.evaluation.benchmark
-🏛️ Emergency Agri Helplines
-Kisan Call Centre (Toll-Free): 1800-180-1551
-Crop Insurance Portal (PMFBY): 14447
-📄 License
-MIT License. Open-source for Indian agricultural development.
+
